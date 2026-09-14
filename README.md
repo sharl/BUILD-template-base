@@ -22,6 +22,20 @@ pip install -r requirements.txt
 python __name__.py
 ```
 
+### Re-run
+
+```powershell
+cd __name__
+.\.venv\Scripts\activate
+python __name__.py
+```
+
+```bash
+cd __name__
+source .venv/bin/activate
+python __name__.py
+```
+
 ## Build
 
 ```powershell
